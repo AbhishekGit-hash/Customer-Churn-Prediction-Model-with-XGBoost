@@ -1,1 +1,1 @@
-# Customer-Churn-Prediction-Model-with-XGBoost
+# Customer Churn Prediction Model with XGBoost
