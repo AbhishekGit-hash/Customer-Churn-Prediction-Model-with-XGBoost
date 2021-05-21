@@ -13,3 +13,5 @@ The motive of this project is to develop a predictive model that will predict th
 From the XGBoost model it was observed that other factors apart from price sensitivity like Yearly consumption, Forecasted Consumption and net margin were drivers of customer churn.
 
 <b>Recommendations : </b>The strategy of monetary benefits is effective. However it should be appropiately targeted to high-valued customers with high churn probability. If not administered properly then the company may face a hard impact on their revenue
+
+In case of failure of loading Jupyter Notebook by Github, the notebook can be found in nbviwer here(https://nbviewer.jupyter.org/github/AbhishekGit-hash/Customer-Churn-Prediction-Model-with-XGBoost/blob/master/Customer%20Churn%20Prediction%20Model%20with%20XGBoost.ipynb) 
