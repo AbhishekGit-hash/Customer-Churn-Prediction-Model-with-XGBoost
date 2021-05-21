@@ -15,4 +15,4 @@ From the XGBoost model it was observed that other factors apart from price sensi
 <b>Recommendations : </b>The strategy of monetary benefits is effective. However it should be appropiately targeted to high-valued customers with high churn probability. If not administered properly then the company may face a hard impact on their revenue
 
 <b>In case of failure of loading Jupyter Notebooks on Github, the following notebooks can be found in nbviewer. Click on the respective hyperlinks to view:</b>:
-- [Customer Churn Prediction Model with XGBoost.ipynb](https://nbviewer.jupyter.org/github/AbhishekGit-hash/Customer-Churn-Prediction-Model-with-XGBoost/blob/master/Customer%20Churn%20Prediction%20Model%20with%20XGBoost.ipynb).
+- [Customer Churn Prediction Model.ipynb](https://nbviewer.jupyter.org/github/AbhishekGit-hash/Customer-Churn-Prediction-Model-with-XGBoost/blob/master/Customer%20Churn%20Prediction%20Model%20with%20XGBoost.ipynb).
